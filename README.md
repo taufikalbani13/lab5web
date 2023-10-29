@@ -42,6 +42,8 @@ outputnya
 ```
 outputnya
 
+![Screenshot 2023-10-30 003007](https://github.com/taufikalbani13/Lab1web/assets/115517181/664efd29-a6cd-4b47-81b2-ae2f353a99c1)
+
 3. Pemakaian method dalam objek
 ```py
 <html>
