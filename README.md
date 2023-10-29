@@ -21,6 +21,10 @@
 </body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 182654](https://github.com/taufikalbani13/Lab1web/assets/115517181/b9a5c4ab-25c2-4658-85b8-f0b7a48f85f0)
+
 2. Pemakaian Alert sebagai property window
 ```py
 <html>
@@ -36,6 +40,7 @@
     </body>
 </html>
 ```
+outputnya
 
 3. Pemakaian method dalam objek
 ```py
@@ -54,6 +59,10 @@
     </body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 184327](https://github.com/taufikalbani13/Lab1web/assets/115517181/0c06296b-f1e2-4e83-b4af-80dc07df2bb0)
+
 4. Pemakaian prompt
 ```py
 <!DOCTYPE html>
@@ -71,6 +80,10 @@
     </body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 183323](https://github.com/taufikalbani13/Lab1web/assets/115517181/9219d9b1-ffe7-43d3-b5d9-1644ae78c8e3)
+
 5. Pembuatan fungsi dan cara memanggilnya
 ```py
 <!DOCTYPE html>
@@ -87,6 +100,10 @@
 	</body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 184624](https://github.com/taufikalbani13/Lab1web/assets/115517181/1b3b0c56-114f-4840-bf8b-02f3bc980300)
+
 6. Operasi dasar aritmatika
 ```py
 <!DOCTYPE html>
@@ -114,6 +131,10 @@
 	</body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 183704](https://github.com/taufikalbani13/Lab1web/assets/115517181/ab33f92a-dafd-4630-8f3b-9acfb2229445)
+
 7. Seleksi Kondisi if-else
 ```py
 <!DOCTYPE html>
@@ -136,6 +157,10 @@
 	</body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 183523](https://github.com/taufikalbani13/Lab1web/assets/115517181/8c812b06-b18b-4f77-be88-ef762a1867c1)![Screenshot 2023-10-29 183523](https://github.com/taufikalbani13/Lab1web/assets/115517181/8c812b06-b18b-4f77-be88-ef762a1867c1)
+
 8. Penggunaan Operator switch untuk seleksi kondisi
 ```py
 <!DOCTYPE html>
@@ -153,6 +178,10 @@
 </body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 184231](https://github.com/taufikalbani13/Lab1web/assets/115517181/4a45f768-e783-4e7c-bfe9-f2c13acc3ba5)
+
 9. Form Input
 ```py
 <!DOCTYPE html>
@@ -170,6 +199,10 @@
 </body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 183913](https://github.com/taufikalbani13/Lab1web/assets/115517181/6e3f687b-0424-4bfb-a2e3-47895bb94c91)
+
 10. Form Button
 ```py
 <!DOCTYPE html>
@@ -192,6 +225,10 @@
 	</body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 183624](https://github.com/taufikalbani13/Lab1web/assets/115517181/c0b9fdf4-4d77-4247-ae1d-538c29746a8f)
+
 11. Pilihan menggunakan checkbox dengan perhitungan otomatis
 ```py
 <!DOCTYPE html>
@@ -225,6 +262,10 @@
 	</body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 184029](https://github.com/taufikalbani13/Lab1web/assets/115517181/5376f95a-dd99-4625-8d5c-50546222f05d)
+
 # Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form
 ```py
@@ -267,4 +308,7 @@
 	</body>
 </html>
 ```
+outputnya
+
+![Screenshot 2023-10-29 183624](https://github.com/taufikalbani13/Lab1web/assets/115517181/20b6f0ba-394e-43b9-9418-eb49fc29bdb5)
      
